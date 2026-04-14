@@ -26,3 +26,8 @@ Simon Says is a fun and interactive memory-based game built using HTML, CSS, and
 - Practiced DOM manipulation
 - Built an interactive browser-based game
 - Strengthened Problem Solving skills
+
+## Author
+Ashutosh Kumar
+<br>
+- Github : [https://github.com](https://github.com/Ashu-code09)
